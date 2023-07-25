@@ -1,0 +1,2 @@
+# SPOTIFY_ATTRIBUTES.README
+The basic and advance EDA on a dataset named SPOTIFY_ATTRIBUTES_DATASET.
